@@ -41,7 +41,7 @@ READINGS
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-John Dane's Family Tree (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21h_101f10_dane_tree))
+John Dane's Family Tree ([PDF]({{< baseurl >}}/resources/mit21h_101f10_dane_tree))
 {{< tdclose >}}
 
 {{< trclose >}}
