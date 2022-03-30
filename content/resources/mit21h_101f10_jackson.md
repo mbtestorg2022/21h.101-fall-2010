@@ -4,6 +4,7 @@ description: 'This resource contains information related to presidential pronoun
   of Andrew Jackson. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-101-american-history-to-1865-fall-2010/0dfe94e6553b69f10bce6d42b5bae0fe_MIT21H_101F10_jackson.pdf
 file_type: application/pdf
+parent_uid: 77e00bfd-acda-2fdd-333b-5676c1cf2308
 resourcetype: Document
 title: MIT21H_101F10_jackson.pdf
 uid: 0dfe94e6-553b-69f1-0bce-6d42b5bae0fe
